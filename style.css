@@ -73,7 +73,7 @@ h1 {
   font-size: 1.4rem;
   position: absolute;
   color: blue;
-  background-color: white;
+  background-color: rgb(181, 56, 56);
   top: 2rem;
   right: 2rem;
 }
